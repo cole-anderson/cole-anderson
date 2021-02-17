@@ -1,10 +1,10 @@
 ### Hello World. I'm Cole Anderson
 
--I am a primarily C++ Programmer with experience in Java as well.
+-I am a primarily C++ & Java Programmer.
 ---
 -I also have exposure to languages such as Racket, Python, Verilog, Prolog and Assembly. (this list is not always up to date)
 ---
--I am currently learning ReactJS, Javascript/Typescript and discovering which backend framework/language I enjoy most.
+-I am currently learning React, Javascript/Typescript and discovering which backend framework/language I enjoy most.
 ---
 Current Project www.fightbiascanada.com 
 ---
