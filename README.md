@@ -8,5 +8,4 @@
 Current Project www.fightbiascanada.com 
 ---
 
-![SinPulse's github stats](https://github-readme-stats.vercel.app/api?username=SinPulse&count_private=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinPulse&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
