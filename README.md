@@ -6,7 +6,7 @@
 ---
 -I am currently learning React, Javascript/Typescript and discovering which backend framework/language I enjoy most.
 ---
-Current Project REvivalFPS https://github.com/sinpulse/REvivalFPS
+Current Project: Honestly from Feb 21-March 21 my current project will be finishing my current passion projects followed by diving deep into the ReactJS and ReactNative frameworks in order to develop a website and app. Ontop of this I will be working on some small games in C and Unity. 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinPulse&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
