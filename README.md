@@ -11,4 +11,4 @@ Current Project: Honestly from Feb 21-March 21 my current project will be finish
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinPulse&layout=compact&theme=gotham&count=8)]
 
-[<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?sinpulse" frameborder="0"></iframe>]
+
