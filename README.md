@@ -9,4 +9,4 @@
 Current Project: Honestly from Feb 21-March 21 my current project will be finishing my current passion projects followed by diving deep into the ReactJS and ReactNative frameworks in order to develop a website and app. Ontop of this I will be working on some small games in C and Unreal. 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinPulse&theme=gotham&count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinPulse&layout=compact&theme=gotham&count=8)](https://github.com/anuraghazra/github-readme-stats)
