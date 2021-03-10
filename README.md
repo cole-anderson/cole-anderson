@@ -9,6 +9,6 @@
 Current Project: www.northernlightsdev.ca (personal development blog using MERN stack)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse&langs_count=10&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,halo-devkit&hide=css,makefile,html,cmake,shell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse&langs_count=8&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,halo-devkit&hide=css,makefile,html,cmake,shell&layout=compact)
 
 
