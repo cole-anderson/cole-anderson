@@ -5,6 +5,7 @@
 -I also have exposure to languages such as Racket, Python, Verilog, Prolog and Assembly. 
 ---
 -I am currently learning Javascript/Typescript & React. With that I am also learning about some of the supporting frameworks and technologies in relation to React(including but not limited to NodeJS, GraphQL, MongoDB etc). 
+---
 
 Current Project: www.northernlightsdev.ca (personal website/blog)
 ---
