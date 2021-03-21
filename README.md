@@ -10,6 +10,6 @@
 Current Project: www.northernlightsdev.ca (personal website/blog)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,halo-devkit&hide=css,makefile,html,cmake,shell, EJS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,halo-devkit&hide=css,makefile,html,cmake,shell,ej5&layout=compact)
 
 
