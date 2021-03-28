@@ -1,4 +1,5 @@
-### Hello World. I'm Cole Anderson
+### Hello World. I'm Cole Anderson 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 -I am a primarily C++ & Java Programmer. 
 ---
