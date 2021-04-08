@@ -11,6 +11,3 @@
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,halo-devkit&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinpulse&show_icons=true&locale=en&layout=compact" alt="sinpulse" /></p>
