@@ -12,9 +12,7 @@
 
 <!-- What I Am Learning Currently: -->
 <h2 align = "center">LWhat I Am Learning Currently:
-<p align = "center" > <a href="https://www.javascript.com" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="racket" width="40" height="40"/> 
-  
-  /a> </p>  </h2>
+<p align = "center" > <a href="https://www.javascript.com" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="racket" width="40" height="40"/> </a> </p>  </h2>
 
 <!-- Technologies & Languages That Interest Me -->
 <h2 align = "center">LWhat I Am Learning Currently:
