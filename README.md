@@ -5,7 +5,7 @@
 <!-- Primary Languages: -->
 <p align = "center" > <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> </h2>
 
-<h2 align = "center"> I have a B.Sc in Computer Science(minor New Media) from the University of Lethbridge  </h2>
+<h2 align = "center"> I have a B.Sc in Computer Science(minor New Media) from the University of Lethbridge & along with programming my hobbies include videography, video editing and gaming  </h2>
 
 <!-- Exposure Languages: -->
 <h2 align = "center" >I have exposure to languages such as Racket, Python, Verilog, Prolog, Processing and Assembly 
