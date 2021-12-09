@@ -1,4 +1,4 @@
-<h1 align="center">Hello World. I'm Cole Anderson</h1>
+<h1 align="center">Hello World. My name is Cole Anderson</h1>
 
 <h2 align = "center"> I am a primarily C++ & Java Programmer
 
