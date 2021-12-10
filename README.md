@@ -18,7 +18,7 @@
 <!--  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><a href="https://unity.com/" target="_blank"> <img src= "https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/unity/unity-original.svg" alt="csharp" width="40" height="40"/></a> </p> </h2> -->
 
 <!-- Technologies & Languages That Interest Me -->
-<h2 align = "center">Technologies & Languages That Interest Me:
+<h2 align = "center">Languages and Technologies That I Am Interested In Building With:
 <p align = "center" > <a href="https://www.scala-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/><a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/><a href="https://www.google.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
 <a href="https://www.google.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> </p>  </h2>
 
