@@ -28,4 +28,6 @@
 <a href="https://developer.apple.com/swift/" target="_blank"><a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </p> </h2>
 
 <!-- VERCEL INSTANCE OF GITHUB STATS    -->
-<p align = "center" > <img src="https://stats-hosted-sinpulse.vercel.app/api/top-langs?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,androidClientServer_IndependentStudy-3990,halo-devkit&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p>
+<p align = "center" > <img src="https://stats-hosted-sinpulse.vercel.app/api/top-langs?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,halo-devkit&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p>
+   
+<!--  androidClientServer_IndependentStudy-3990   -->
