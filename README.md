@@ -31,4 +31,4 @@
 <!-- <p align = "center" > <img src="https://stats-hosted-sinpulse.vercel.app/api/top-langs?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,androidClientServer_IndependentStudy-3990,halo-devkit&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p> -->
    
 <!--  androidClientServer_IndependentStudy-3990   -->
- <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" /></p>
+ <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse" /></p>
