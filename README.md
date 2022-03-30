@@ -15,7 +15,7 @@
 <!-- Exposure: -->
 <h2 align = "center" >Through School I Was Also Exposed To Languages and Technology Such As:
 <!--Racket-->
-<p align = "center" > { Racket, Python, Verilog, Prolog, Processing & Assembly } </p>
+<p align = "center" > { Racket, Python, Verilog, Prolog, Processing & Assembly | AndroidStudio, VSCode,  } </p>
 <p align = "center" > 
 <a href="https://racket-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/>
 <!--Python-->
