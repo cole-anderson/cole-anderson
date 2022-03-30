@@ -13,13 +13,14 @@
 
 <!-- 2 -->
 <!-- Exposure: -->
-<h2 align = "center" >Through School I Was Also Exposed To Languages and Technology Such As:{ Racket, Python, Verilog, Prolog, Processing & Assembly }
+<h2 align = "center" >Through School I Was Also Exposed To Languages and Technology Such As:
 <!--Racket-->
+<p align = "center" > { Racket, Python, Verilog, Prolog, Processing & Assembly } </>p
 <p align = "center" > 
 <a href="https://racket-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/>
 <!--Python-->
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </p> </a> </h2>
+</p> </a> </h2>
  
  <!-- 3 -->
 <!-- What I Am Learning Currently: -->
