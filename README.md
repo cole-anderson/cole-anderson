@@ -13,7 +13,7 @@
 
 <!-- 2 -->
 <!-- Exposure: -->
-<h2 align = "center" >Through school i also did various projects that exposed me to languages and technolgies such as:
+<h2 align = "center" >Through school i also did various projects that exposed me to languages and technologies like:
 <!--Racket-->
 <p align = "center" > { Racket, Python, Verilog, Prolog, Processing & Assembly | AndroidStudio, VSCode,  } </p>
 <p align = "center" > 
