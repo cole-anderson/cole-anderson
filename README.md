@@ -1,15 +1,28 @@
+<!-- HEADER INFO  -->
 <h1 align="center">Hello World. I'm Cole Anderson</h1>
 
 <h2 align = "center"> Primarily I Am A C++ & Java Developer
 
-<!-- Primary Languages: -->
-<p align = "center" > <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> </h2>
+<!-- 1 -->
+<!-- Primary Languages -->
+<p align = "center" > 
+<!-- C++ ICON  -->
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<!-- JAVA ICON  -->
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> </h2>
 
-<!-- Exposure Languages: -->
-<h2 align = "center" >Languages and Technology I Have Also Been Exposed To In School Are: Racket, Python, Verilog, Prolog, Processing & Assembly 
-
-<p align = "center" > <a href="www.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/> </a>
-
+<!-- 2 -->
+<!-- Exposure: -->
+<h2 align = "center" >Through School I Was Also Exposed To Languages and Technology Such As:{ Racket, Python, Verilog, Prolog, Processing & Assembly }
+<!--Racket-->
+<p align = "center" > 
+<a href="https://racket-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/>
+</p> </a> </h2>
+ 
+<!--Python-->
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ 
+ <!-- 3 -->
 <!-- What I Am Learning Currently: -->
 <h2 align = "center">Currently Developing {AniLog} Using:
  
@@ -32,5 +45,5 @@
 <!-- VERCEL INSTANCE OF GITHUB STATS  this is broken af  -->
 <!-- <p align = "center" > <img src="https://stats-hosted-sinpulse.vercel.app/api/top-langs?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615,androidClientServer_IndependentStudy-3990,halo-devkit&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p> -->
    
-<!--  androidClientServer_IndependentStudy-3990   -->
+<!-- LANGUAGE STATS(NOT SELF HOSTED   -->
  <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p>
