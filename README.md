@@ -6,9 +6,9 @@
 <p align = "center" > <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> </h2>
 
 <!-- Exposure Languages: -->
-<h2 align = "center" >Languages I Have Also Been Exposed To In School Are: Racket, Python, Verilog, Prolog, Processing & Assembly 
+<h2 align = "center" >Languages and Technology I Have Also Been Exposed To In School Are: Racket, Python, Verilog, Prolog, Processing & Assembly 
 
-<p align = "center" > <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/> </a>
+<p align = "center" > <a href="www.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/> </a>
 
 <!-- What I Am Learning Currently: -->
 <h2 align = "center">Currently Developing {AniLog} Using:
