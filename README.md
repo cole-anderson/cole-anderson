@@ -1,7 +1,7 @@
 <!-- HEADER INFO  -->
 <h1 align="center">Hello World. I'm Cole Anderson</h1>
 
-<h2 align = "center"> Primarily I Am A C++ & Java Developer
+<h2 align = "center"> Primarily I Am A C++ & Java developer
 
 <!-- 1 -->
 <!-- Primary Languages -->
@@ -13,7 +13,7 @@
 
 <!-- 2 -->
 <!-- Exposure: -->
-<h2 align = "center" >Through School I Was Also Exposed To Languages and Technology Such As:
+<h2 align = "center" >Through school i also did various projects that exposed me to languages and technolgies such as:
 <!--Racket-->
 <p align = "center" > { Racket, Python, Verilog, Prolog, Processing & Assembly | AndroidStudio, VSCode,  } </p>
 <p align = "center" > 
@@ -24,7 +24,7 @@
  
 <!-- 3 -->
 <!-- What I Am Learning Currently: -->
-<h2 align = "center">Currently Developing {AniLog} Using: 
+<h2 align = "center">Currently developing {AniLog} using: 
 <p align = "center" > 
 <a href="https://www.javascript.com" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
