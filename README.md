@@ -43,7 +43,7 @@
   
 <!-- 5  -->
 <!-- LANGUAGE STATS(NOT SELF HOSTED   -->
- <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sinpulse&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p>
+ <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cole-anderson&langs_count=9&theme=tokyonight&&exclude_repo=ALUProject-4210,computerArchitecture-3615&hide=css,makefile,html,cmake,shell,ejs&layout=compact" alt="sinpulse" /></p>
  
  
  
