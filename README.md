@@ -9,7 +9,7 @@ Primarily I have been a C++ & Java developer
 <!-- C++ ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <!-- JAVA ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> </h2>
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
  
 Currently I program with Javascript & Python
 <!-- 1 -->
