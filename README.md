@@ -17,10 +17,9 @@ My current dailydriven technologies are Javascript(React) & Python(Flask)
 <!-- Primary Languages -->
 <p align = "center" > 
 <!-- JAVASCRIPT ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript
- /javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- PYTHON ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg" alt="java" width="40" height="40"/> </a> </p> </h2>
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> </h2>
 
 <!-- 2 -->
 <!-- Exposure: -->
