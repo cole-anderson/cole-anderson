@@ -2,7 +2,7 @@
 <h1 align="center">Hello World. I'm Cole Anderson</h1>
 
 <h2 align = "center"> 
-Primarily I have been a C++ & Java developer
+Primarly I have been a C++ & Java developer
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
@@ -11,7 +11,7 @@ Primarily I have been a C++ & Java developer
 <!-- JAVA ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
  
-Currently I program with Javascript & Python
+Currently I daily Javascript & Python
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
