@@ -1,8 +1,9 @@
 <!-- HEADER INFO  -->
 <h1 align="center">Hello World. I'm Cole Anderson</h1>
 
-<h2 align = "center"> Primarily I Am A C++ & Java developer
-
+<h2 align = "center"> 
+Primarily I have been a C++ and Java developer
+My current dailydriven technologies are Javascript(React) and Python(Flask)
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
