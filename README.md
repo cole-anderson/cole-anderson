@@ -3,6 +3,7 @@
 
 <h2 align = "center"> 
 Primarily I have been a C++ and Java developer
+ <h3 align = "center"> 
 My current dailydriven technologies are Javascript(React) and Python(Flask)
 <!-- 1 -->
 <!-- Primary Languages -->
