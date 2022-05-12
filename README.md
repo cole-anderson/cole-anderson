@@ -24,7 +24,7 @@ Currently I daily Javascript & Python
 <!-- Exposure: -->
 <h2 align = "center" >Through school i also did projects that exposed me to languages and technologies like:
 <!--Racket-->
-<p align = "center" > { Racket, Python, Verilog, Prolog, Processing & Assembly | AndroidStudio, VSCode,  } </p>
+<p align = "center" > { Racket, Verilog, Prolog, Processing & Assembly | AndroidStudio, VSCode,  } </p>
 <p align = "center" > 
 <a href="https://racket-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/coleAndersonForkedDevelopment/devicon/master/icons/racket/racket-original.svg" alt="racket" width="40" height="40"/>
 <!--Python-->
