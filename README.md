@@ -1,5 +1,6 @@
 <!-- HEADER INFO  -->
 <h1 align="center">Hello World. I'm Cole Anderson</h1>
+<h2 align="center">BSc. University of Lethbridge</h2>
 
 <h2 align = "center"> 
 Primarly I have been a C++ & Java developer
