@@ -39,7 +39,7 @@ Currently I daily Javascript & Python
 <body style="background-color:powderblue;">
 <h2 align = "center">Technology that intrigues me:
 <p align = "center" > 
- Jotai, Vue, Rust
+ <a href="https://jotai.org/">Jotai, </a> Vue, Rust
  </p> </a> </h2>  
  </body>
  
