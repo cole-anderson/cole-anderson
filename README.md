@@ -33,6 +33,17 @@ Currently I daily Javascript & Python
 <a href="https://www.postgresql.org/" target="_blank"> <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> 
   </p> </a> </h2>  
  </body>
+ 
+ <!-- 3 -->
+<!-- Interesting Technology -->
+<body style="background-color:powderblue;">
+<h2 align = "center">Technology that intrigues me:
+<p align = "center" > 
+ Jotai, Vue, Rust
+ </p> </a> </h2>  
+ </body>
+ 
+ 
 
  <!-- 5  -->
 <!-- LANGUAGE STATS(NOT SELF HOSTED   -->
