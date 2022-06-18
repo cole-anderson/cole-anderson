@@ -12,19 +12,17 @@ Historically I have been a C++ & Java developer
 <!-- JAVA ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
  
-Currently I daily Javascript & Python
+Currently I daily Javascript
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
 <!-- JAVASCRIPT ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!-- PYTHON ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> </h2>
  
 <!-- 3 -->
 <!-- What I Am Learning Currently: -->
 <body style="background-color:powderblue;">
-<h2 align = "center">Currently developing {AniLog} using: 
+<h2 align = "center">Personal Stack(AniLog Development)
 <p align = "center" > 
 <a href="https://www.javascript.com" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
