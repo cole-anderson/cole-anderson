@@ -3,7 +3,7 @@
 <h2 align="center">BSc. University of Lethbridge</h2>
 
 <h2 align = "center"> 
-Primarly I have been a C++ & Java developer
+Historically I have been a C++ & Java developer
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
