@@ -34,7 +34,7 @@ Currently I daily JavaScript
  <!-- 3 -->
 <!-- Interesting Technology -->
 <body style="background-color:powderblue;">
-<h2 align = "center">Technologies that intrigues me:
+<h2 align = "center">Technologies that intrigue me:
 <p align = "center" > 
  <a href="https://jotai.org/">Jotai</a>,<a href="https://vuejs.org/">Vue</a>,<a href="https://rust-lang.org/">Rust</a>
  </p> </a> </h2>  
