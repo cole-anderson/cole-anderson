@@ -15,10 +15,10 @@ Currently working with: Javascript & Groovy
 <!-- Primary Languages -->
 <p align = "center" > 
 <!-- JAVASCRIPT ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 
 <!-- GROOVY  -->
- <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> </a> </p> 
+<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="50" height="50"/> </a> </p> 
 
 <!-- 3 -->
 <!-- What I Am Learning Currently: -->
@@ -27,7 +27,7 @@ Currently working with: Javascript & Groovy
  <h2 align = "center">Developing 'track-trips' using:
 <p align = "center" > 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
- <p align = "center" > 
+<p align = "center" > 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
  <a href="" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  </p> </a> </h2>  
