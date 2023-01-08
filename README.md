@@ -10,7 +10,7 @@ Through University I was a C++ developer
 <!-- C++ ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  
-Currently working with: Javascript & Groovy
+Currently 9-5ing: Javascript & Groovy
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
@@ -24,7 +24,7 @@ Currently working with: Javascript & Groovy
 <!-- What I Am Learning Currently: -->
 <body style="background-color:powderblue;">
  
- <h2 align = "center">Developing 'track-trips' using:
+ <h2 align = "center">"Trying" to find time to develop 'track-trips' using:
 <p align = "center" > 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <p align = "center" > 
