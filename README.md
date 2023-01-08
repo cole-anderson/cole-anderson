@@ -10,25 +10,37 @@ Through University I was a C++ developer
 <!-- C++ ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  
-Currently my primary languages are Javascript(+React), Java(+Spring) & Python(+Flask)
+Currently working with: Javascript & Groovy
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
 <!-- JAVASCRIPT ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!-- JAVA ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
- 
+
+<!-- GROOVY  -->
+ <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> </a> </p> 
+
 <!-- 3 -->
 <!-- What I Am Learning Currently: -->
 <body style="background-color:powderblue;">
-<h2 align = "center">Currently developing AniLog using:
+ 
+ <h2 align = "center">Developing 'track-trips' using:
+<p align = "center" > 
+<a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+ <p align = "center" > 
+<a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+ <a href="" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ </p> </a> </h2>  
+ 
+ 
+ 
+<!-- <h2 align = "center">Currently developing AniLog using:
 <p align = "center" > 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
 <a href="https://www.postgresql.org/" target="_blank"> <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> 
-  </p> </a> </h2>  
+  </p> </a> </h2>   -->
  </body>
  
  <!-- 3 -->
