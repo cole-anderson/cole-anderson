@@ -3,14 +3,14 @@
 <h2 align="center">BSc. Computer Science from University of Lethbridge</h2>
 
 <h2 align = "center"> 
-Historically I have been a C++ developer
+Through University I was a C++ developer
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
 <!-- C++ ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  
-Currently I daily JavaScript and Java
+Currently my primary languages are Javascript(+React), Java(+Spring) & Python(+Flask)
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
