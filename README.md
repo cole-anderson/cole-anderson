@@ -49,12 +49,13 @@ Currently 9-5ing: Javascript & Groovy
  
  <!-- 3 -->
 <!-- Interesting Technology -->
-<!-- <body style="background-color:powderblue;">
-<h2 align = "center">Technologies that intrigue me:
+<body style="background-color:powderblue;">
+<h2 align = "center">Technologies I want to become proficient in:
 <p align = "center" > 
- <a href="https://jotai.org/">Jotai</a>,<a href="https://vuejs.org/">Vue</a>,<a href="https://rust-lang.org/">Rust</a>
- </p> </a> </h2>  
- </body> -->
+<a href="" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+ 
+ 
+ </body> 
  
  
 
