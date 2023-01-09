@@ -28,9 +28,14 @@ Currently 9-5ing: Javascript & Groovy
 <p align = "center" > 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <p align = "center" > 
-<a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
+ 
+ 
+<!--SPRING-JAVA-->
+<!-- <a href="" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
  <a href="" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- </p> </a> </h2>  
+ </p> </a> </h2>   -->
  
  
  
