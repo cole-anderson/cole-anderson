@@ -10,14 +10,15 @@ Through University I was a C++ developer
 <!-- C++ ICON  -->
 <a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
  
-Currently 9-5ing: Javascript & Groovy
+Currently 9-5ing:
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
 <!-- JAVASCRIPT ICON  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 <!-- GROOVY  -->
-<a href="https://github.com/sinpulse?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="50" height="50"/> </a> </p> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="50" height="50"/> </a> 
+ <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="groovy" width="50" height="50"/> </a> </p> 
 
 <!-- 3 -->
 <!-- What I Am Learning Currently: -->
