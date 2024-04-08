@@ -14,22 +14,28 @@ Currently 9-5ing:
 <!-- 1 -->
 <!-- Primary Languages -->
 <p align = "center" > 
-<!-- JAVASCRIPT ICON  -->
+ <!-- JAVA SPRING -->
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="groovy" width="50" height="50"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="groovy" width="50" height="50"/> </a> </p>
+ <!-- JAVASCRIPT ICON  -->
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 <!-- GROOVY  -->
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="50" height="50"/> </a> 
- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="groovy" width="50" height="50"/> </a> </p> 
+
 
 <!-- 3 -->
 <!-- What I Am Learning Currently: -->
 <body style="background-color:powderblue;">
 
+<!--
 <h2 align = "center">"Trying" to find time to develop 'track-trips' using:
 <p align = "center" > 
 <a href="https://reactjs.org/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
  <a href="" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org/" target="_blank"> <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> 
  </p> </a> </h2>
+ -->
+ 
 
  
 <!--SPRING-JAVA-->
